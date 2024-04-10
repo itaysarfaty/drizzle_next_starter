@@ -2,16 +2,18 @@
 
 This is a starter project for building web applications with Next.js, Drizzle, and Turso.
 
-## Stack
+## Features
 
 - React.js
 - Next.js
 - Drizzle
 - Turso
+- Prettier
+- pnpm
 
 ## DB setup
 
-Follow the drizzle guide below to set up your database. Most of the work is already complete. You just need to configure the environment variables.
+Open the drizzle guide below to learn how to set up your Turso database. Most of the work is complete. You'll have to configure the environment variables.
 
 [Link to guide](https://orm.drizzle.team/learn/tutorials/drizzle-with-turso)
 
