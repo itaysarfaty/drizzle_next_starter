@@ -1,8 +1,4 @@
-# Drizzle Starter
-
-This is a starter project for building web applications with Next.js, Drizzle, and Turso.
-
-## Features
+## Template Features
 
 - React.js
 - Next.js
